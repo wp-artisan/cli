@@ -1,6 +1,6 @@
 {
-  "name": "wp-artisan",
-  "version": "0.0.5-alpha.0",
+  "name": "@wp-artisan/cli",
+  "version": "0.0.1-alpha.0",
   "description": "A command-line toolkit for WordPress developers",
   "bin": {
     "wp": "./bin/index.js"
